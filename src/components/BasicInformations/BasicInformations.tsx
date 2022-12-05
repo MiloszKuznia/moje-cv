@@ -16,7 +16,7 @@ export const BasicInformations = () => {
         const myName = (
             <div className='first-block'>
             <ul className="my-name">
-                <li>Miłosz Kuźnia</li>
+                <li>Milosz Kuznia</li>
                 <li>Junior Frontend Developer</li>
             </ul>
             <div className="my-photo">
@@ -32,7 +32,7 @@ export const BasicInformations = () => {
                 <li> <img src={homeimg} className="my-icons"/>Gdańsk</li>
                 <li> <img src={callimg} className="my-icons"/> 693-064-429</li>
                 <li> <img src={mailimg} className="my-icons"/> miloszkuznia@gmail.com</li>
-                <li> <img src={gitimg} className="my-icons-git"/> https://github.com/MiloszKuznia</li>
+                <li> <img src={gitimg} className="my-icons-git"/> <a href="https://github.com/MiloszKuznia">https://github.com/MiloszKuznia</a></li>
             </ul>
         )    
 

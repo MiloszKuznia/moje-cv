@@ -1,0 +1,13 @@
+.my-certificate {
+    width: 50%;
+    height: 50%;
+}
+
+.links-container a {
+    color: black;
+    text-decoration: none;
+}
+
+.links-container a:hover {
+    text-decoration: underline;
+}
