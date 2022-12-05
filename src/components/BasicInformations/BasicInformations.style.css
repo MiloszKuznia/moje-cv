@@ -6,7 +6,7 @@
 
 .first-block ul {
    list-style: none;
-   padding-left: 20%;
+   padding-left: 15%;
 }
 
 .my-name li:first-child {
@@ -17,7 +17,7 @@
     width: 140px;
     height: 140px;
     border-radius: 50%;
-    margin-right: 20%;
+    margin-right: 23%;
 }
 
 .second-block {
@@ -31,6 +31,15 @@
     justify-content: start;
     align-items: center;
     gap: 10px;
+}
+
+.second-block a {
+    color: black;
+    text-decoration: none;
+}
+
+.second-block a:hover {
+    text-decoration: underline;
 }
 
 .my-icons {
