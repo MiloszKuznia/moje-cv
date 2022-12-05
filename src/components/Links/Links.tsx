@@ -9,6 +9,8 @@ export const Links = () => {
                 <a href="https://github.com/infoshareacademy/jfddr7-team-react-ninjas">https://github.com/infoshareacademy/jfddr7-team-react-ninjas</a> <br />
                 <a href="https://github.com/rajmanski/BookShare">https://github.com/rajmanski/BookShare</a>
 
+                <p>More my aplications was made in private repositories during lessons</p>
+
                 <h2>Certificate</h2>
                 <img className='my-certificate' src={certyfikat}/>
 
