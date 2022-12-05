@@ -1,0 +1,47 @@
+.first-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first-block ul {
+   list-style: none;
+   padding-left: 20%;
+}
+
+.my-name li:first-child {
+    font-size: 40px;
+}
+
+.my-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-right: 20%;
+}
+
+.second-block {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.second-block li {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+
+.my-icons {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.my-icons-git {
+    height: 30px;
+    width: 50px;
+
+}
